@@ -1,14 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModSyncNinjaData>
-  <ID>4fbd1ed8-a170-4f53-a621-d6dc00c96007</ID>
-  <ModName>[SYR] Neuter</ModName>
-  <Version>1.2.0</Version>
+  <ID>c2ac2766-1ff9-49cc-90cc-fbac9636c926</ID>
+  <ModName>[SYR] Neuter (Continued)</ModName>
+  <Version>1.5.1</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
-    <Owner>Syrchalis</Owner>
-    <Project>Neuter</Project>
+    <Owner>emipa606</Owner>
+    <Project>SYRNeuter</Project>
     <AboutDir>About</AboutDir>
-    <DownloadFrom>ModSyncReleases</DownloadFrom>
+    <DownloadFrom>ModSyncMainPage</DownloadFrom>
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
+
+
+
+
+
