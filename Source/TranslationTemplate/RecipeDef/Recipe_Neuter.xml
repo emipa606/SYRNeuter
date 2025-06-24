@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: abort pregnancy -->
+  <AbortPregnancy.label>abort pregnancy</AbortPregnancy.label>
+  <!-- EN: Aborts an ongoing pregnancy. -->
+  <AbortPregnancy.description>Aborts an ongoing pregnancy.</AbortPregnancy.description>
+  <!-- EN: Aborting pregnancy. -->
+  <AbortPregnancy.jobString>Aborting pregnancy.</AbortPregnancy.jobString>
+  <!-- EN: make infertile (reversible) -->
+  <MakeInfertile.label>make infertile (reversible)</MakeInfertile.label>
+  <!-- EN: Prevents an animal from reproducing, but not mating. -->
+  <MakeInfertile.description>Prevents an animal from reproducing, but not mating.</MakeInfertile.description>
+  <!-- EN: Making infertile. -->
+  <MakeInfertile.jobString>Making infertile.</MakeInfertile.jobString>
+  <!-- EN: reverse infertility -->
+  <ReverseInfertility.label>reverse infertility</ReverseInfertility.label>
+  <!-- EN: Makes an animal able to reproduce again. -->
+  <ReverseInfertility.description>Makes an animal able to reproduce again.</ReverseInfertility.description>
+  <!-- EN: Reversing infertility. -->
+  <ReverseInfertility.jobString>Reversing infertility.</ReverseInfertility.jobString>
+</LanguageData>

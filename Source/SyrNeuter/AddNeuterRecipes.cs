@@ -8,10 +8,10 @@ public static class AddNeuterRecipes
 {
     static AddNeuterRecipes()
     {
-        NeuterRecipeUsers();
+        neuterRecipeUsers();
     }
 
-    public static void NeuterRecipeUsers()
+    private static void neuterRecipeUsers()
     {
         NeuterDefOf.AbortPregnancy.recipeUsers = [];
         NeuterDefOf.MakeInfertile.recipeUsers = [];
