@@ -1,21 +1,21 @@
 # [[SYR] Neuter (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3340791043)
 
-![Image](https://i.imgur.com/buuPQel.png)
+![Image](https://img.litet.net/logos/Info.png)
 
 Update of Syrchalis mod https://steamcommunity.com/sharedfiles/filedetails/?id=1501449584
 
 Removed the Neuter surgery as it was identical to the vanilla sterilization-surgery.
 Made it more clear that the infertile-surgery is reversible.
 
-![Image](https://i.imgur.com/pufA0kM.png)
+![Image](https://img.litet.net/logos/Notice.png)
 	
-![Image](https://i.imgur.com/Z4GOv8H.png)
+![Image](https://img.litet.net/logos/OriginalDescription.png)
 
 ## **Adds the ability to neuter animals, preventing reproduction.**
 
 
 
-![Image](https://i.imgur.com/s8csNp7.png)
+![Image](https://img.litet.net/s8csNp7.png)
 
 - Surgery to permanently neuter animals, free
 - Surgery to make animals reversibly infertile, 1 medicine
@@ -24,7 +24,7 @@ Made it more clear that the infertile-surgery is reversible.
 
 
 
-![Image](https://i.imgur.com/x3y72Eg.png)
+![Image](https://img.litet.net/x3y72Eg.png)
 
 ### **Savegames:**
 
@@ -43,19 +43,19 @@ Made it more clear that the infertile-surgery is reversible.
 
 
 
-![Image](https://i.imgur.com/1YxHVGs.png)
+![Image](https://img.litet.net/1YxHVGs.png)
 
 [quote]### **[Syrchalis' Mods](https://steamcommunity.com/workshop/filedetails/?id=1474000866)**
 [/quote]
 Collection of my mods for RimWorld
 
-![Image](https://i.imgur.com/PwoNOj4.png)
+![Image](https://img.litet.net/logos/ReportingIssues.png)
 
 
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
+-  Always post your log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404)
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
@@ -63,4 +63,4 @@ Collection of my mods for RimWorld
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/SYRNeuter?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3340791043) | tags:  pregnancy prevention
+[![Image](https://img.shields.io/github/v/release/emipa606/SYRNeuter?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3340791043) | 1.6, Mod, 1.5, 1.2, 1.3, 1.0, 1.4, 1.1
